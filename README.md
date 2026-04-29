@@ -6,7 +6,7 @@ It displays the current date and time in real-time, and the background color cha
 
 ---
 
-##  Features
+## Features
 - Live updating clock (updates every second)
 - Formatted date display using date-fns
 - Dynamic background color
@@ -14,7 +14,7 @@ It displays the current date and time in real-time, and the background color cha
 
 ---
 
-## Technologies Used
+##  Technologies Used
 - React
 - Vite
 - JavaScript (JSX)
@@ -23,10 +23,10 @@ It displays the current date and time in real-time, and the background color cha
 
 ---
 
-##  Installation & Setup
+## Installation & Setup
 
 1. Clone the repository:
-   git clone git@github.com:sylva-sG/color-clock.git
+   git clone https://github.com/your-username/color-clock.git
 
 2. Navigate into the project folder:
    cd color-clock
@@ -42,6 +42,10 @@ It displays the current date and time in real-time, and the background color cha
 
 ---
 
+## Screenshot
+screenshot.png
+
+---
 
 ##  What I Learned
 - Setting up a React project with Vite
