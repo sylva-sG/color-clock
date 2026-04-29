@@ -1,16 +1,62 @@
-# React + Vite
+#  Color Clock (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##  Description
+This is a dynamic digital clock built using React and Vite.  
+It displays the current date and time in real-time, and the background color changes every second.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Features
+- Live updating clock (updates every second)
+- Formatted date display using date-fns
+- Dynamic background color
+- Fast performance using Vite
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
+- React
+- Vite
+- JavaScript (JSX)
+- CSS
+- date-fns
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Installation & Setup
+
+1. Clone the repository:
+   git clone git@github.com:sylva-sG/color-clock.git
+
+2. Navigate into the project folder:
+   cd color-clock
+
+3. Install dependencies:
+   npm install
+
+4. Run the development server:
+   npm run dev
+
+5. Open in browser:
+   http://localhost:5173/
+
+---
+
+
+##  What I Learned
+- Setting up a React project with Vite
+- Using React hooks (useState, useEffect)
+- Installing and using npm packages
+- Creating dynamic UI updates
+
+---
+
+##  Future Improvements
+- Add 12-hour format (AM/PM)
+- Add dark/light mode
+- Improve animations
+
+---
+
+##  License
+This project is for educational purposes.
